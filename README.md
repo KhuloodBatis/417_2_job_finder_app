@@ -8,3 +8,14 @@
 
 <h3> simple app support the idea of helping people and are similar in finding job opportunities easily in terms of the employer publishing his search for full or part time employees and that the job seeker can easily find job opportunities
 </h3>
+
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https:https://files.fm/u/hdmqr8xhj" target="_blank">Big Buck Bunny</a>.
+</p>
